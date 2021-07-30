@@ -1,2 +1,2 @@
 # No2_AlternativeFlashingLEDs 
-ไฟสลับติด-ดับ
+ไฟ 2 ดวงสลับติด-ดับ
